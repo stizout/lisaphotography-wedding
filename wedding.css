@@ -1,0 +1,68 @@
+body {
+	background: rgba(244, 195, 237, .3);
+}
+.bg-light {
+	background: white!important;
+} 
+.nav-link {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+}
+.navbar-brand {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+	}
+
+#topImage {
+	margin-top: 90px;
+}
+
+.largeDemo img {
+	border-radius: 100px;
+}
+
+.parallax1 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(http://istockhdwallpapers.com/wp-content/uploads/2014/06/love-diamonds-wedding-rings-wedding-backgrounds-diamonds-love-rings-wedding-25964.jpg);
+}
+
+#phrase1 {
+	padding: 200px 0;
+	margin: 50px 0;
+	font-family: Raleway;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+.parallax2 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(http://mapinstitute.org/data/wallpapers/33/im58045420.jpg);
+}
+
+.container h1 {
+	text-align: center;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+}
+.img-thumbnail {
+	height: 236px;
+	width: 100%;
+	margin: 5px 0;
+	object-fit: contain;
+}
+#bottom {
+	padding: 30px 0;
+	background-color: white;
+}
+
