@@ -61,6 +61,7 @@ body {
 	margin: 5px 0;
 	object-fit: contain;
 	background: transparent;
+	border-style: none;
 }
 #bottom {
 	padding: 30px 0;
